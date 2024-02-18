@@ -1,0 +1,10 @@
+
+mkdir new-project
+
+cd new-project
+
+git init
+
+git remote add origin git@github.com:taylornguyen/HTMLform.git
+
+git branch -M main
